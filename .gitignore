@@ -1,4 +1,4 @@
-svn-archive
-svn-fast-export
+*.orig
 *.pyc
 .dotest
+.idea/
